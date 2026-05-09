@@ -1,0 +1,2 @@
+# TextBot
+Simple text generator.
